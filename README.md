@@ -1,6 +1,6 @@
 # graphql-vue-intro
 
-This sample project to show how to work with Vue-APollo library. Checkout the accompanying [article](#) to learn more.
+This sample project to show how to work with Vue-Apollo library. Checkout the accompanying [article](#) to learn more. You will need to set up the [server](https://github.com/pmbanugo/graphql-intro-js) to have an API to work with.
 
 ## Project setup
 
